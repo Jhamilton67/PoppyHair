@@ -269,7 +269,7 @@ const ContactPage = () => {
         <div className="text-center mb-8 sm:mb-12">
           <h1 className="text-3xl sm:text-4xl font-serif font-semibold text-stone-800 mb-3 sm:mb-4">Contact for an appointment</h1>
           <p className="text-stone-600 max-w-2xl mx-auto text-sm sm:text-base">
-            Schedule your visit to Poppy Hair and let us help you achieve the look you've always wanted.
+            Schedule your visit to Poppy Hair and let me help you achieve the look you've always wanted.
           </p>
         </div>
 
