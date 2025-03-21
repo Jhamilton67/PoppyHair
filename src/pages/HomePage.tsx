@@ -22,12 +22,12 @@ const HomePage = () => {
     },
     {
       title: 'Colouring',
-      description: 'From subtle highlights to bold transformations, our colour experts deliver stunning results.',
+      description: 'From subtle highlights to bold transformations, I can deliver stunning results.',
       icon: <Droplet className="h-6 w-6" />,
     },
     {
       title: 'Treatments',
-      description: 'Revitalize your hair with our nourishing and restorative treatments.',
+      description: 'Revitalize your hair with my nourishing and restorative treatments.',
       icon: <Sparkles className="h-6 w-6" />,
     }
   ];
@@ -184,7 +184,7 @@ const HomePage = () => {
                   </div>
                   <div>
                     <h3 className="text-xl font-serif font-semibold text-stone-800">{service.title}</h3>
-                    <p className="text-stone-600 text-sm">{service.price}</p>
+                    {/* <p className="text-stone-600 text-sm">{service.price}</p> */}
                   </div>
                 </div>
                 <p className="text-stone-600 mb-6 sm:mb-8 flex-grow">{service.description}</p>
@@ -211,7 +211,7 @@ const HomePage = () => {
           <div className="text-center mb-12 sm:mb-16">
             <h2 className="text-3xl sm:text-4xl font-serif font-semibold mb-4 sm:mb-6">Client Stories</h2>
             <p className="text-base sm:text-lg text-cream-light/80 max-w-2xl mx-auto">
-              Read what our clients have to say about their experiences with Poppy Hair
+              Read what my clients have to say about their experiences with Poppy Hair
             </p>
           </div>
           

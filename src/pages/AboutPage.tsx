@@ -22,7 +22,7 @@ const AboutPage = () => {
     {
       icon: <Users className="h-6 w-6" />,
       title: 'Inclusive environment',
-      description: 'At Poppy Hair we welcome clients of all backgrounds, creating a space where everyone feels comfortable and valued.'
+      description: 'At Poppy Hair I welcome clients of all backgrounds, creating a space where everyone feels comfortable and valued.'
     }
   ];
 
