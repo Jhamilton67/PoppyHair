@@ -232,7 +232,7 @@ const ContactPage = () => {
     "image": "https://poppy-hair.com/src/Images/LucyPic_1.jpeg",
     "url": "https://poppy-hair.com",
     "telephone": "+447849474199",
-    "email": "lucy_hairbuisness@outlook.com",
+    "email": "lucy_hairbusiness@outlook.com",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "25A Dundas St",
@@ -570,7 +570,7 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <h3 className="font-medium mb-1 text-sm sm:text-base">Email</h3>
-                    <p className="text-base sm:text-lg break-all">lucy_hairbuisness@outlook.com</p>
+                    <p className="text-base sm:text-lg break-all">lucy_hairbusiness@outlook.com</p>
                     <p className="text-xs sm:text-sm text-cream-light/70 mt-1">I'll respond as soon as possible</p>
                   </div>
                 </div>
